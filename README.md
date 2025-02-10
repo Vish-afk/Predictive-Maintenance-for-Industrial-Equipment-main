@@ -1,4 +1,4 @@
-# Predictive-Maintenance-for-Industrial-Equipment-main
+![image](https://github.com/user-attachments/assets/f094dc0e-9040-4030-bee7-43e76894be07)# Predictive-Maintenance-for-Industrial-Equipment-main
 ## Introduction
 The Predictive Maintenance Dashboard is an interactive web application designed to provide insights into predictive maintenance for industrial machinery. It offers features for data visualization, historical data analysis, input data submission, and prediction results.
 
@@ -17,3 +17,11 @@ The Predictive Maintenance Dashboard is an interactive web application designed 
 - **Seaborn:** Data visualization library based on Matplotlib for statistical graphics.
 - **scikit-learn:** Machine learning library for predictive modeling and data analysis.
 - **GitHub:** Version control repository for project collaboration and code management.
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/eed61f12-1df5-455a-b2c1-4c34c00a3bd7)
+![image](https://github.com/user-attachments/assets/9f5178c1-c668-40f7-b7ac-1733749b0176)
+![image](https://github.com/user-attachments/assets/b6a6196c-b4ca-4516-9399-4499e40b4196)
+![image](https://github.com/user-attachments/assets/5d73df51-b3b8-4d71-8d9f-ffcfb0351bce)
+![image](https://github.com/user-attachments/assets/5be4d1b9-905e-4a5d-9684-7328623df24e)
+![image](https://github.com/user-attachments/assets/46742231-f4bb-41e6-b83b-a71f49dff5b6)
