@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f094dc0e-9040-4030-bee7-43e76894be07)# Predictive-Maintenance-for-Industrial-Equipment-main
+## Predictive-Maintenance-for-Industrial-Equipment-main
 ## Introduction
 The Predictive Maintenance Dashboard is an interactive web application designed to provide insights into predictive maintenance for industrial machinery. It offers features for data visualization, historical data analysis, input data submission, and prediction results.
 
